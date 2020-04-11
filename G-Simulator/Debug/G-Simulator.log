@@ -1,0 +1,27 @@
+﻿  main.cpp
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(21): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(90): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(383): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(392): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(553): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(598): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(601): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(602): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(626): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(642): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(693): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\main.cpp(741): warning C4018: <: несоответствие типов со знаком и без знака
+  Object.cpp
+  Space.cpp
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\space.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\space.cpp(68): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\space.cpp(97): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\space.cpp(123): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alexander furmanov\source\repos\lessons\g-simulator\g-simulator\space.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  G-Simulator.vcxproj -> C:\Users\Alexander Furmanov\source\repos\LESSONS\G-Simulator\Debug\G-Simulator.exe
